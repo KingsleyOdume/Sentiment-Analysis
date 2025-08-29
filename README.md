@@ -49,7 +49,7 @@ For this repo, a **sample_tweets.csv** file is provided.
 ## ⚙️ Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/sentiment-analysis-social-media.git
+git clone [https://github.com/yourusername/sentiment-analysis-social-media.git](https://github.com/KingsleyOdume/Sentiment-Analysis)
 cd sentiment-analysis-social-media
 
 Create a virtual environment and install dependencies:
@@ -71,7 +71,7 @@ streamlit run app/streamlit_app.py
 Then open http://localhost:8501 in your browser.
 
 🌐 Live Demo
-👉 Deployed on Streamlit Cloud: [Your Streamlit App Link]
+👉 Deployed on Streamlit Cloud: [Streamlit App Link](https://sentiment-analysis-2cs89avcypamofcfcwbbzc.streamlit.app)
 
 💡 Key Learnings
 How to preprocess raw text data (cleaning, tokenizing, lemmatizing)
@@ -87,6 +87,6 @@ Communication skills (dashboard + repo documentation)
 
 👤 Author
 Kingsley Odume
-🌍 Portfolio Website
-💻 GitHub
-🔗 LinkedIn
+🌍 [Portfolio Website](https://kingsleyodume.online)
+💻 [GitHub](https://github.com/KingsleyOdume)
+🔗 [LinkedIn](https://linkedin.com/in/kingsleyodume)
